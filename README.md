@@ -1,0 +1,2 @@
+# TrendMuch
+The News Suicider
