@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "SpaceX Dragon capsule safely returns Crew-3 astronauts back to Earth - Engadget",
+            "description": "And NASA has taken a cool night video of the event..",
+            "url": "https://www.engadget.com/spacex-dragon-capsule-splashdown-084501365.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/e33a59c0-cd07-11ec-b7ff-9021a20c1c7a",
+            "publishedAt": "2022-05-06T18:31:25Z",
+            "content": "The astronauts that flew to the ISS as part of the SpaceX Crew-3 mission are back on Earth after almost six months on the orbiting lab. They splashed down safely in the Gulf of Mexico aboard the Crew… [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Ryan Young, Jaide Timm-Garcia and Paradise Afshar, CNN",
+            "title": "Vehicle found in search for missing Alabama inmate and corrections officer - CNN",
+            "description": "US Marshals found an orange 2007 Ford Edge associated with Vicky White and inmate Casey White in a tow lot in Williamson County, Tennessee.",
+            "url": "https://www.cnn.com/2022/05/06/us/vicky-white-casey-white-alabama-manhunt-friday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220501071557-vicki-white-casey-white-super-tease.jpg",
+            "publishedAt": "2022-05-06T18:20:00Z",
+            "content": "(CNN)The escape vehicle used by Vicky White and Casey White, the missing former Alabama corrections officer and inmate, has been found, the US Marshals office said. \r\nThe orange 2007 Ford Edge SUV wa… [+6195 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brenda Goodman, CNN",
+            "title": "CDC investigating more than 100 cases of unexplained hepatitis in children, including 5 deaths - CNN",
+            "description": "The US Centers for Disease Control and Prevention said on Friday it's investigating 109 cases of severe and unexplained hepatitis in children in 25 states and territories that may be linked to a worldwide outbreak.",
+            "url": "https://www.cnn.com/2022/05/06/health/hepatitis-kids-cdc-update/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220506130130-kids-hepatitis-cdc-0506-restricted-super-tease.jpg",
+            "publishedAt": "2022-05-06T18:04:00Z",
+            "content": "(CNN)The US Centers for Disease Control and Prevention said on Friday it's investigating 109 cases of severe and unexplained hepatitis in children in 25 states and territories that may be linked to a… [+9512 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Will Horner, Rebecca Feng, Gunjan Banerji",
+            "title": "U.S. Stocks Extend Selloff in Another Wild Session - The Wall Street Journal",
+            "description": "Treasury yields have been hovering near their highest level since 2018",
+            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-05-06-2022-11651810843",
+            "urlToImage": "https://images.wsj.net/im-539356/social",
+            "publishedAt": "2022-05-06T17:50:00Z",
+            "content": "U.S. stocks slipped Friday, extending their losses after one of Wall Streets worst selloffs since the pandemic began. \r\nThe Dow Jones Industrial Average lost 202 points, or 0.6%, after slumping more … [+132 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Some Ukrainians evacuated as Russia tightens grip on Mariupol plant - Reuters",
+            "description": "Ukraine said just 50 civilians were evacuated from a bombed-out steelworks in the city of Mariupol on Friday, accusing Russia of violating a truce intended to allow all those trapped beneath the plant to depart after weeks under siege.",
+            "url": "https://www.reuters.com/world/europe/russian-fighting-destroys-damages-nearly-400-hospitals-medical-centres-zelenskiy-2022-05-06/",
+            "urlToImage": "https://www.reuters.com/resizer/v4UTch-cwlfvs0uw6Yq3gBYtA0s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZHI6ACPDZZLKPB2UOTURJA4HEY.jpg",
+            "publishedAt": "2022-05-06T17:29:00Z",
+            "content": "KYIV, May 6 (Reuters) - Ukraine said just 50 civilians were evacuated from a bombed-out steelworks in the city of Mariupol on Friday, accusing Russia of violating a truce intended to allow all those … [+6010 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Patrick Oppmann, Karol Suarez and Jorge Engels, CNN",
+            "title": "At least eight dead after a massive explosion destroyed a hotel in Havana, Cuba - CNN",
+            "description": "Police and fire rescuers are combing through rubble for survivors after an explosion late Friday morning destroyed a hotel in Havana, Cuba, killing at least eight people and injuring 30.",
+            "url": "https://www.cnn.com/2022/05/06/americas/hotel-saratoga-cuba-explosion/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220506114552-01-cuba-hotel-explosion-0506-super-tease.jpg",
+            "publishedAt": "2022-05-06T17:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Elana Fishman",
+            "title": "Kim Kardashian changed into another Marilyn Monroe dress after Met Gala 2022 - Page Six",
+            "description": "“To top off my night after The Met, I had the honor of changing into Marilyn Monroe’s Norman Norell dress that she wore to the Golden Globes in 1962.”",
+            "url": "https://pagesix.com/2022/05/06/kim-kardashian-wore-another-marilyn-monroe-dress-post-met-gala-2022/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/05/marilyn-monroe-kim-kardashian-globes-dress.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-05-06T17:24:00Z",
+            "content": "Kim Kardashian had multiple Marilyn moments at the 2022 Met Gala.\r\nAfter walking Monday’s red carpet in the iconic Jean Louis dress Marilyn Monroe wore to sing Happy Birthday, Mr. President to John F… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Queen to attend UK Jubilee celebrations, but snubs for Andrew and Harry - Reuters UK",
+            "description": "Queen Elizabeth plans to attend major celebrations to mark her 70 years on the British throne next month, Buckingham Palace said on Friday, but two out-of-favour royals, Princes Andrew and Harry, will be excluded from one traditional event.",
+            "url": "https://www.reuters.com/world/uk/queen-attend-uk-jubilee-celebrations-snubs-andrew-harry-2022-05-06/",
+            "urlToImage": "https://www.reuters.com/resizer/nvxom5g7kUXg8fVnUQ-Z_YXrco8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5XA6PDAYBJBVDFONZJ3LASFGA.jpg",
+            "publishedAt": "2022-05-06T17:04:00Z",
+            "content": "LONDON, May 6 (Reuters) - Queen Elizabeth plans to attend major celebrations to mark her 70 years on the British throne next month, Buckingham Palace said on Friday, but two out-of-favour royals, Pri… [+3037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Mitchell",
+            "title": "Chris Rock to Dave Chappelle: 'I got smacked by the softest N-word that ever rapped' - New York Post ",
+            "description": "The superstar comics performed a “secret,” diss-filled comedy show Thursday night in Los Angeles.",
+            "url": "https://nypost.com/2022/05/06/dave-chappelle-chris-rock-joke-about-attacks-at-secret-show/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/06/chappelle-rock-526.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-05-06T16:47:00Z",
+            "content": "Comics Dave Chappelle and Chris Rock are standing up for themselves in light of their infamous onstage attacks.\r\nChappelle — who was tackled by a knife-wielding assailant during a set at the Hollywoo… [+2753 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marianne Garvey",
+            "title": "Bad Bunny strikes first in the battle for song of the summer - CNN",
+            "description": "Superstar Bad Bunny has released his fifth studio album \"Un Verano Sin Ti,\" or \"A Summer Without You.\"",
+            "url": "https://www.cnn.com/2022/05/06/entertainment/bad-bunny-song-summer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220124162046-bad-bunny-file-2021-super-tease.jpg",
+            "publishedAt": "2022-05-06T16:34:00Z",
+            "content": "(CNN)Superstar Bad Bunny has released his fifth studio album \"Un Verano Sin Ti,\" or \"A Summer Without You.\"\r\nHe revealed the artwork and the track list on Wednesday morning and there are 23 songs, di… [+832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Marc Santora, Dan Bilefsky",
+            "title": "Latest Russia-Ukraine War News: Live Updates - The New York Times",
+            "description": "The Ukrainian military took the offensive as the two sides battle for control of the east. In the south, an evacuation convoy was dispatched to rescue civilians from the besieged steel plant in Mariupol.",
+            "url": "https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/05/06/multimedia/06ukraine-blog-promo-1pm/06ukraine-blog-promo-1pm-facebookJumbo.jpg",
+            "publishedAt": "2022-05-06T16:27:55Z",
+            "content": "WASHINGTON The United States provided intelligence that helped Ukrainian forces locate and strike the flagship of Russias Black Sea fleet last month, another sign that the administration is easing it… [+8600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jaclyn Hendricks",
+            "title": "Scary footage shows car crash that sent Jerry Jones to hospital - New York Post ",
+            "description": "In a video posted Friday by TMZ, a silver car is seen trying to make a turn before being struck by a dark-colored sedan at what appears to be a high speed.",
+            "url": "https://nypost.com/2022/05/06/video-of-jerry-jones-car-crash-emerges/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/jerry-jones-crash-copy.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-05-06T16:27:00Z",
+            "content": "New footage has emerged of a recent car accident involving Cowboys owner Jerry Jones.\r\nIn a video posted Friday by TMZ, a silver car is seen trying to turn before being struck by a dark-colored sedan… [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Abha Bhattarai",
+            "title": "April jobs report remained steady at 3.6 percent - The Washington Post",
+            "description": "The job market’s rapid rebound has been a cornerstone of the pandemic recovery and a major political asset for the Biden administration.",
+            "url": "https://www.washingtonpost.com/business/2022/05/06/jobs-report-april/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DKWOCQGLVUI6ZN7OOTYJ3AT4UY.jpg&w=1440",
+            "publishedAt": "2022-05-06T16:25:13Z",
+            "content": "Placeholder while article actions load\r\nU.S. employers added 428,000 jobs in April, capping a year of solid growth, adding more fuel to an already robust recovery. The unemployment rate remained stea… [+6083 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Ryan Gilliam",
+            "title": "Video Game Hall of Fame inducts Ocarina of Time, Ms. Pac-Man, and DDR - Polygon",
+            "description": "The 2022 class for the World Video Game Hall of Fame is in, and includes The Legend of Zelda: Ocarina of Time, Ms. Pac-Man, Civilization, and Dance Dance Revolution.",
+            "url": "https://www.polygon.com/23060029/ocarina-of-time-zelda-pac-man-ddr-civilization-video-game-hall-fame",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FMBccB7RfR0KfU4sTNVSZRTRobQ=/0x436:2000x1483/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13462394/Ocarina_of_Time.jpg",
+            "publishedAt": "2022-05-06T16:10:09Z",
+            "content": "Seven years after its creation, some of the best video games of all time are being inducted into the World Video Game Hall of Fame. \r\nThe Strong National Museum of Play in Rochester, NY, which hosts … [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jessica Glenza",
+            "title": "‘A severe chilling effect’: abortion bans will inhibit doctors’ advice to patients, experts fear - The Guardian",
+            "description": "Extreme restrictions combined with tough-on-crime laws could put medical professionals in severe legal jeopardy",
+            "url": "https://amp.theguardian.com/world/2022/may/06/abortion-bans-patient-doctor-medical-advice",
+            "urlToImage": "https://i.guim.co.uk/img/media/98b8bc25b18ba920e1810cb1af301010724d5e3f/0_146_4400_2642/master/4400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a741b27430e64034aa4c020e5fa9b685",
+            "publishedAt": "2022-05-06T16:02:00Z",
+            "content": "The end of a federal right to abortion in the US would have profound and detrimental impacts on medical education, the freedom to practice medicine and patients ability to seek medical advice without… [+6803 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Which teams improved their defense from the 2022 NFL Draft? | 'Path to the Draft' - NFL.com",
+            "description": "<p>Find out which teams improved their defense from the 2022 NFL Draft?</p>",
+            "url": "https://www.nfl.com/videos/which-teams-improved-their-defense-from-the-2022-nfl-draft-path-to-the-draft",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/qq1wd66sfluv8pwvkdmr",
+            "publishedAt": "2022-05-06T15:23:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Daunte Wright's mother detained after recording traffic stop - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/wireStory/daunte-wrights-mother-detained-recording-traffic-stop-84544066",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_d338db9bce234bce82a3d1f389c9a1e3_16x9_992.jpg",
+            "publishedAt": "2022-05-06T15:18:23Z",
+            "content": "BROOKLYN CENTER, Minn. -- The mother of Daunte Wright, who was fatally shot by a suburban Minneapolis police officer, said she was injured while she was briefly detained by one of the same department… [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jennifer Liu",
+            "title": "New White House press secretary Karine Jean-Pierre is making history - CNBC",
+            "description": "Incoming White House press secretary Karine Jean-Pierre will take over daily White House press briefings after Jen Psaki departs on May 13.",
+            "url": "https://www.cnbc.com/2022/05/06/new-white-house-press-secretary-karine-jean-pierre-is-making-history.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107057186-1651843218742-gettyimages-1395609822-107a9000_1decf3ae-8f5c-4bfb-9aa4-e8fb7681f656.jpeg?v=1651843294&w=1920&h=1080",
+            "publishedAt": "2022-05-06T14:55:06Z",
+            "content": "The White House press secretary job has existed for 93 years and for the first time, it'll soon be held by someone who isn't white.\r\nKarine Jean-Pierre has been named the Biden administration's new W… [+3948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Ciara Linnane",
+            "title": "New study finds omicron no less severe than earlier variants, and not just more transmissible - MarketWatch",
+            "description": "FDA restricts use of J&J vaccine over rare but serious blood-clotting issue",
+            "url": "https://www.marketwatch.com/story/new-study-finds-omicron-no-less-severe-than-earlier-variants-and-not-just-more-transmissible-11651847345",
+            "urlToImage": "https://images.mktw.net/im-539354/social",
+            "publishedAt": "2022-05-06T14:29:00Z",
+            "content": "A new study conducted by researchers at Harvard Medical School among others has found that the omicron variant of the coronavirus that causes COVID-19 is just as severe as earlier variants, and not m… [+6493 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Levin, Graham Rapier",
+            "title": "Crypto CEO says Elon Musk has no plan for Twitter, and reveals why he wrote him a $500 million 'blank check' - Yahoo Finance",
+            "description": "\"It's more of a blank check,\" Binance CEO Changpeng Zhao said. \"After the investment  ...  Elon will figure out what he wants to do.\"",
+            "url": "https://www.businessinsider.com/elon-musk-twitter-deal-binance-ceo-investment-business-plan-crypto-2022-5",
+            "urlToImage": "https://i.insider.com/6275262794a2c10018ee4532?width=1200&format=jpeg",
+            "publishedAt": "2022-05-06T14:08:22Z",
+            "content": "Binance, the world's largest cryptocurrency exchange, is investing $500 million as part of Elon Musk's deal to take Twitter private.\r\nThat sum is simply a blank check, CEO Changpeng Zhao told the Fin… [+1984 chars]"
+        }
+    ]
+}
